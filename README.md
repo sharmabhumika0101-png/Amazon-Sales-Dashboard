@@ -140,8 +140,6 @@ If required, update or refresh the dataset to visualize the latest information.
 
 ### Dashboard Overview
 
-(Add screenshots here)
-
 ---
 
 ## Author
