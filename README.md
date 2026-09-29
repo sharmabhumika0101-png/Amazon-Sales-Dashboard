@@ -1,165 +1,58 @@
-# Amazon Sales Dashboard
+# 📊 Amazon Sales Dashboard
 
-An interactive **Power BI dashboard** designed to analyze Amazon sales data and provide valuable business insights through dynamic visualizations and reports. The dashboard helps users monitor sales performance, identify trends, and make data-driven decisions.
+An interactive **Power BI dashboard** developed to analyze Amazon sales data and generate meaningful business insights through KPIs, charts, and interactive visualizations.
 
----
+## ✨ Features
 
-## Overview
+* Sales and revenue analysis
+* Order and product analysis
+* Category-wise performance
+* Regional sales analysis
+* Monthly sales trends
+* Interactive filters and visualizations
+* Business insights reporting
 
-The Amazon Sales Dashboard transforms raw sales data into meaningful insights using Microsoft Power BI. It provides an intuitive interface for exploring sales trends, product performance, and key business metrics through interactive charts and visualizations.
+## 🛠️ Technologies
 
----
+* **Power BI**
+* **DAX**
+* **Data Modeling**
+* **Microsoft Excel**
 
-## Features
+## 📂 Project Files
 
-- 📈 Interactive sales dashboard
-- 💰 Overall sales performance analysis
-- 📦 Product category-wise insights
-- 🛒 Order and transaction analysis
-- 📊 Dynamic charts and visualizations
-- 🔍 Filtering and drill-down capabilities
-- 📉 Trend analysis over time
-- 🎯 Business intelligence reporting
-
----
-
-## Technologies Used
-
-- Microsoft Power BI
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Visualization
-- Excel/CSV Dataset
-
----
-
-## Dashboard Insights
-
-The dashboard provides information about:
-
-- Total Sales
-- Total Orders
-- Profit Analysis
-- Product Category Performance
-- Monthly Sales Trends
-- Top-Selling Products
-- Regional Sales Distribution
-- Customer Purchasing Patterns
-
----
-
-## Project Structure
-
-```
+```text
 Amazon-Sales-Dashboard/
-│
-├── Amazon Sales Dashboard.pbix
-├── Dataset.xlsx
-├── Screenshots/
-│   ├── Dashboard.png
-│   └── Sales Overview.png
+├── Amazon_Combined_Data.xlsx
+├── Sales project.pbix
+├── dashboard.png
+├── screenshots/
+├── Business Insights.docx
 └── README.md
 ```
 
----
+## 🖼️ Dashboard Preview
 
-## Installation
+![Amazon Sales Dashboard](./dashboard.png)
 
-### Prerequisites
+## 🚀 How to Use
 
-- Microsoft Power BI Desktop
-
-Download Power BI Desktop from:
-
-https://powerbi.microsoft.com/desktop/
-
----
-
-## How to Use
-
-### 1. Clone the repository
+1. Install **Microsoft Power BI Desktop**.
+2. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/Amazon-Sales-Dashboard.git
+git clone https://github.com/sharmabhumika0101-png/Amazon-Sales-Dashboard.git
 ```
 
-### 2. Open the project
+3. Open `Sales project.pbix` in Power BI Desktop.
+4. Refresh the dataset if required.
 
-Open the `.pbix` file using **Power BI Desktop**.
-
-### 3. Refresh the dataset
-
-If required, update or refresh the dataset to visualize the latest information.
-
----
-
-## Dashboard Components
-
-### Sales Overview
-- Total revenue
-- Number of orders
-- Sales growth
-
-### Product Analysis
-- Top-performing products
-- Category-wise sales
-
-### Regional Analysis
-- Sales by location
-- Geographic distribution
-
-### Trend Analysis
-- Monthly and yearly sales trends
-- Seasonal performance patterns
-
----
-
-## Applications
-
-- Business Intelligence
-- Sales Performance Monitoring
-- Trend Analysis
-- Inventory Planning
-- Decision Support Systems
-- Market Analysis
-
----
-
-## Future Improvements
-
-- Real-time data integration
-- Predictive analytics
-- Customer segmentation
-- Forecasting models
-- Advanced KPI tracking
-- Interactive drill-through reports
-
----
-
-## Screenshots
-
-### Dashboard Overview
-
----
-
-## Author
+## 👩‍💻 Author
 
 **Bhumika Sharma**
+B.Tech Data Science
+Usha Mittal Institute of Technology, Mumbai
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Acknowledgements
-
-- Microsoft Power BI
-- Amazon Sales Dataset
-- Data Visualization Community
-
----
-
-⭐ If you found this project useful, please consider giving it a star!
+⭐ If you find this project useful, consider giving it a star!
